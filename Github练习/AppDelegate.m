@@ -18,6 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 //    创建主线程
 //    二次创建主线程
+//    创建分支
+//    二次创建分支
     return YES;
 }
 
